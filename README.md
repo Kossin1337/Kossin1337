@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kossin1337
 - 👀 I’m interested in web development & data structures and algorithms
-- 🌱 I’m currently learning javascript, React and SASS
+- 🌱 Currently working on my portfolio projects.
 - 📫 Reach me by e-mail: piotrswobodzinski@gmail.com
 
 <!---
