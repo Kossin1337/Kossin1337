@@ -1,10 +1,10 @@
-### Hi there, I'm Piotr Swobodziński (Kossin)  👋
+### Hi there, I'm Piotr Swobodziński (Kossin) 👋
 
 <img align="right" alt="GIF" src="duck.gif" width="220" height="259" />
 
-## Front-end developer & UI/UX Designer
+## Front-end Developer & UI/UX Designer
 
-- 🌱 Currently working on my portfolio projects & engineering paper.
+- 🌱 Currently working on my portfolio projects & engineering thesis (<a href="https://github.com/Kossin1337/API-Crypto-tracker" >basically full-stack project<a/>).
 - 📫 Reach me by e-mail: piotrswobodzinski@gmail.com
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
@@ -46,6 +46,7 @@
 
 [linkedin]: https://www.linkedin.com/in/kossin1337/
 [instagram]: https://www.instagram.com/kossin1337/
+[engineeringthesis]: https://github.com/Kossin1337/API-Crypto-tracker
 
 <!---
 Kossin1337/Kossin1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
