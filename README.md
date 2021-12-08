@@ -1,6 +1,6 @@
 ### Hello World, I'm Kossin  👋
 
-<img align="right" alt="GIF" src="gif.gif" width="498" height="280" />
+<img align="right" alt="GIF" src="gif.gif" width="200" height="200" />
 
 - 👋 Hi, I’m @Kossin1337
 - 👀 I’m interested in web development & data structures and algorithms
