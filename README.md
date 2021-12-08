@@ -36,12 +36,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![Kossin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kossin1337&show_icons=true&theme=radical)]
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kossin1337&show_icons=true&hide_border=true" />
-
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kossin1337&langs_count=7)]
 
 
 <details>
@@ -51,7 +48,7 @@
 
 </details>
 
-[![Kossin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kossin1337&show_icons=true&theme=radical)]
+
 
 
 [linkedin]: https://www.linkedin.com/in/kossin1337/
