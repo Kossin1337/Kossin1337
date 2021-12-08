@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="duck.gif" width="220" height="259" />
 
-## I'm a Front-end developer & UI/UX Designer
+## Front-end developer & UI/UX Designer
 
 - 🌱 Currently working on my portfolio projects & engineering paper.
 - 📫 Reach me by e-mail: piotrswobodzinski@gmail.com
