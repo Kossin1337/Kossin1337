@@ -4,7 +4,6 @@
 
 ## I'm a Front-end developer & UI/UX Designer
 
-- 👋 Hi, I’m @Kossin1337
 - 🌱 Currently working on my portfolio projects & engineering paper.
 - 📫 Reach me by e-mail: piotrswobodzinski@gmail.com
 - 💬 Ask me about ... Anything
@@ -44,9 +43,6 @@
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kossin1337" />
 
 </details>
-
-
-
 
 [linkedin]: https://www.linkedin.com/in/kossin1337/
 [instagram]: https://www.instagram.com/kossin1337/
