@@ -38,9 +38,6 @@
 
 [![Kossin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kossin1337&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kossin1337&langs_count=7)]
-
-
 <details>
   <summary>:zap: Most Used Languages</summary>
 
