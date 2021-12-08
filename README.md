@@ -54,6 +54,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/kossin1337/
+[linkedin]: https://www.instagram.com/kossin1337/
 
 <!---
 Kossin1337/Kossin1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
