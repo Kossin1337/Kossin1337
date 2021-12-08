@@ -4,7 +4,7 @@
 
 ## Front-end Developer & UI/UX Designer
 
-- 🌱 Currently working on my portfolio projects & engineering thesis (<a href="https://github.com/Kossin1337/API-Crypto-tracker" >basically full-stack project<a/>).
+- 🌱 Currently working on my portfolio projects & engineering thesis (<a href="https://github.com/Kossin1337/API-Crypto-tracker" >CoinREX<a/>).
 - 📫 Reach me by e-mail: piotrswobodzinski@gmail.com
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
