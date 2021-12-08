@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -50,6 +50,8 @@
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kossin1337" />
 
 </details>
+
+[![Kossin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kossin1337&show_icons=true&theme=radical)]
 
 
 [linkedin]: https://www.linkedin.com/in/kossin1337/
