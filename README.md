@@ -1,6 +1,6 @@
 ### Hi there, I'm Piotr Swobodziński (Kossin) 👋
 
-<img align="right" alt="GIF" src="gifs/duck.gif" width="220" height="259" />
+<img align="right" alt="GIF" src="gifs/duck.gif" width="110" height="130" />
 
 ## Front-end Developer & UI/UX Designer
 
@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
