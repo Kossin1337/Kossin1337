@@ -12,6 +12,7 @@
 
 ### Connect with me:
 
+<a href="https://gmail.com" target="_blank" > <img align="left" alt="Kossin1337 | GMAIL" width="25px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/> <a/>
 [<img align="left" alt="Kossin1337 | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kossin1337 | Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
