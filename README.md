@@ -11,8 +11,6 @@
 - 😄 Pronouns: He/Him
 
 ### Connect with me:
-
-<a href="https://gmail.com" target="_blank" > <img align="left" alt="Kossin1337 | GMAIL" width="25px" src="https://image.flaticon.com/icons/png/512/732/732200.png"/> <a/>
 [<img align="left" alt="Kossin1337 | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
 <br />
