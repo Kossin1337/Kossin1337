@@ -4,10 +4,11 @@
 
 ## Front-end Developer & UI/UX Designer
 
+### Check out my portfolio at: <a hraf="kossin.dev" target="_blank" color="#00ccff">kossin.dev</a>
+
 - 👋 I’m looking to collaborate in **Hackathons & React.js projects**
 - 🌱 Currently working on my portfolio projects & engineering thesis (<a href="https://github.com/Kossin1337/API-Crypto-tracker" >CoinREX<a/>).
 - 📫 How to reach me **piotrswobodzinski@gmail.com**
-- 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 
 ### Connect with me:
