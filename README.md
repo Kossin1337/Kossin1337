@@ -2,13 +2,8 @@
 
 <img align="right" alt="GIF" src="gifs/duck.gif" width="110" height="130" />
 
-## Front-End Developer & UI/UX Designer
-
+## App Developer & UI/UX Designer
 ### Check out my portfolio at: <a hraf="kossin.dev" target="_blank" color="#00ccff">kossin.dev</a>
-
-- 👋 I’m looking to collaborate in **Hackathons & React.js projects**
-- 🌱 Currently working on side projects and improving my skillset
-- 📫 How to reach me **piotrswobodzinski@gmail.com**
 
 ### Connect with me:
 [<img align="left" alt="Kossin1337 | LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
